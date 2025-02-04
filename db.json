@@ -1,0 +1,8 @@
+{
+    "trails": [
+      { "id": 1, "name": "Mountain Trail", "distance": 12, "difficulty": "Hard", "description": "A challenging mountain trail." },
+      { "id": 2, "name": "Forest Path", "distance": 5, "difficulty": "Medium", "description": "A scenic path through the forest." },
+      { "id": 3, "name": "Coastal Ride", "distance": 20, "difficulty": "Easy", "description": "A relaxing ride along the coast." }
+    ]
+  }
+  
